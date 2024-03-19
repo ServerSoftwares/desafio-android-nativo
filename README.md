@@ -4,6 +4,7 @@
 - Você deve criar um repositório para enviar os fontes desse desafio. 
 - Desenvolver as aplicações conforme descrito abaixo.
 - Após finalizar, faça o push para seu repositório, revise seu código e envie por e-mail o endereço do repositório para que possamos analisar o código.
+- A aplicação deve ser desenvolvida nativamente para para a plataforma Android.
 
 ### Descrição
 
